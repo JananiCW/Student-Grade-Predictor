@@ -48,6 +48,3 @@ Model saved as grade_model.pkl
 <img width="1500" height="700" alt="Screenshot 2026-03-19 100830" src="https://github.com/user-attachments/assets/2473c969-67ce-4f44-9176-2907131b90fd" />
 
 <img width="1500" height="800" alt="Screenshot 2026-03-19 100935" src="https://github.com/user-attachments/assets/6eb30113-0f9a-4af5-b0fb-7411ffc83670" />
-
-
-Made with ❤️ as a university Machine Learning project!
